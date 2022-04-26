@@ -1,2 +1,2 @@
 # pathFinder
-BFS path finder
+BFS path finder implemented in python 
